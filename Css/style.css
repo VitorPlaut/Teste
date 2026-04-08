@@ -1,0 +1,35 @@
+h1{
+    color:rgb(19, 19, 19);
+    background-color:blue;
+}
+
+#nome{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    
+}
+
+.texto{
+    background-color:blue;
+}
+
+p {
+    color:aqua
+}
+
+.div-por-fora{
+    background-color: aquamarine;
+    display: flex;
+}
+
+.div-por-dentro{
+    background-color: brown;
+    height: 50px;
+    width: 50%;
+    position: relative;
+}
+
+.texto-centralizado{
+    text-align: center;
+}
